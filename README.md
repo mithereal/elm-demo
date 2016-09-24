@@ -1,3 +1,3 @@
-#  elm-demo
+#  elm-tutorial
 
-### Demo using the elm language
+### elm source for https://www.elm-tutorial.org
