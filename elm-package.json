@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Demo Elm Program",
-    "repository": "https://github.com/mithereal/elm-demo",
+    "repository": "https://github.com/mithereal/elm-demo.git",
     "license": "BSD3",
     "source-directories": [
         "."
